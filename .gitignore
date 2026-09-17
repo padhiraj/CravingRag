@@ -1,0 +1,26 @@
+# Generated data — regenerate with data_generator.py, don't commit
+*.csv
+ranker_model.pkl
+eda_plots/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
