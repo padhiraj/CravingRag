@@ -1,0 +1,201 @@
+restaurant_id,name,city,cuisines,rating,avg_cost_for_two,delivery_time_min
+1,Royal Bites #1,Delhi,"South Indian, North Indian, Fast Food",4.4,200,52
+2,The Bites #2,Delhi,"North Indian, Street Food",4.0,150,50
+3,Grand Table #3,Pune,Healthy Food,3.8,900,52
+4,Royal Table #4,Hyderabad,"Street Food, North Indian",3.6,250,28
+5,Urban Kitchen #5,Bangalore,"South Indian, Street Food",4.6,400,17
+6,Urban Kitchen #6,Pune,"Beverages, Continental, South Indian",3.6,500,51
+7,The Kitchen #7,Jamshedpur,Healthy Food,3.4,400,20
+8,Urban House #8,Hyderabad,South Indian,4.2,500,25
+9,Grand House #9,Jamshedpur,"Biryani, Italian",4.8,200,53
+10,Royal Corner #10,Hyderabad,"Chinese, Continental, Italian",3.5,300,35
+11,The House #11,Hyderabad,Italian,3.5,300,51
+12,Urban Corner #12,Jamshedpur,"Biryani, Italian, Bakery",3.9,400,23
+13,Cafe Junction #13,Bangalore,Healthy Food,4.4,700,52
+14,Royal Junction #14,Hyderabad,"Biryani, Italian",3.2,150,22
+15,Royal Table #15,Hyderabad,Bakery,4.1,700,39
+16,Cafe Kitchen #16,Jamshedpur,"Beverages, Continental, Fast Food",4.4,400,36
+17,Urban Bites #17,Hyderabad,Fast Food,3.0,400,47
+18,The Table #18,Bangalore,Continental,4.6,300,24
+19,Cafe Junction #19,Mumbai,"Street Food, Chinese",4.1,900,16
+20,Spice Bites #20,Mumbai,Biryani,3.5,200,20
+21,Royal Bites #21,Jamshedpur,"Beverages, South Indian, Continental",3.9,250,31
+22,Cafe Table #22,Jamshedpur,"Mexican, Desserts, Italian",3.4,400,40
+23,Cafe Corner #23,Mumbai,"Bakery, Biryani, Beverages",3.5,200,36
+24,Cafe Bites #24,Pune,Mexican,3.4,200,55
+25,The Kitchen #25,Chennai,Italian,3.6,300,32
+26,Royal Table #26,Pune,"Beverages, Italian, Continental",4.1,300,45
+27,The Table #27,Hyderabad,"Italian, South Indian",3.7,700,44
+28,Grand Kitchen #28,Mumbai,"North Indian, Bakery, Healthy Food",3.8,500,21
+29,Royal Junction #29,Hyderabad,Italian,3.3,250,32
+30,Urban Junction #30,Mumbai,"Italian, South Indian",3.1,150,20
+31,Urban Corner #31,Hyderabad,Chinese,3.4,700,18
+32,The Corner #32,Bangalore,Desserts,4.8,900,33
+33,Cafe Table #33,Jamshedpur,"Healthy Food, Street Food",3.9,300,33
+34,Cafe Table #34,Pune,North Indian,3.1,500,18
+35,Urban Junction #35,Chennai,Mexican,4.0,150,47
+36,The Junction #36,Mumbai,Chinese,4.3,300,40
+37,Royal Junction #37,Pune,Mexican,3.1,200,41
+38,Spice House #38,Delhi,"Mexican, Street Food, Continental",4.3,500,30
+39,Grand Table #39,Bangalore,"Desserts, Chinese",3.9,200,15
+40,The Kitchen #40,Pune,"Mexican, Street Food",3.4,400,23
+41,Spice House #41,Delhi,"South Indian, Italian",3.8,400,54
+42,Cafe House #42,Jamshedpur,"Continental, North Indian, Bakery",3.2,250,31
+43,Grand Junction #43,Delhi,South Indian,3.5,300,36
+44,Grand House #44,Pune,Bakery,3.9,150,20
+45,The House #45,Chennai,"Desserts, Fast Food, North Indian",3.2,400,25
+46,Cafe Kitchen #46,Mumbai,"Beverages, Continental, Desserts",3.1,250,49
+47,Cafe Junction #47,Delhi,Biryani,3.8,150,34
+48,Spice Bites #48,Jamshedpur,"Street Food, North Indian",3.5,200,37
+49,Royal Bites #49,Chennai,"Desserts, Mexican, Chinese",4.5,700,16
+50,Spice Corner #50,Chennai,Healthy Food,4.3,300,32
+51,Grand Kitchen #51,Hyderabad,Street Food,4.7,900,29
+52,Spice House #52,Chennai,Beverages,4.5,300,29
+53,Royal Corner #53,Bangalore,Bakery,3.5,200,32
+54,Urban Table #54,Chennai,"Bakery, Continental",4.0,150,22
+55,Spice Kitchen #55,Mumbai,"Chinese, Mexican",4.1,500,35
+56,The Corner #56,Pune,"Mexican, Continental",3.4,150,42
+57,Cafe Table #57,Jamshedpur,Continental,4.8,300,38
+58,Spice Junction #58,Bangalore,"South Indian, Bakery",4.3,200,34
+59,Spice Corner #59,Jamshedpur,"Fast Food, Bakery, Desserts",3.6,250,27
+60,Grand Table #60,Delhi,"Bakery, Desserts",4.2,400,40
+61,Royal Corner #61,Chennai,"North Indian, Fast Food, Healthy Food",4.1,500,44
+62,Royal Junction #62,Hyderabad,"Beverages, Bakery",4.5,250,20
+63,Grand Junction #63,Bangalore,"Continental, Bakery",3.2,300,34
+64,Royal Bites #64,Mumbai,Street Food,3.1,900,54
+65,Urban Table #65,Pune,Beverages,3.4,700,46
+66,Grand Table #66,Mumbai,"Italian, Chinese",4.7,200,42
+67,Grand Junction #67,Hyderabad,Chinese,3.1,300,22
+68,Grand Junction #68,Pune,"Chinese, Beverages",4.1,900,54
+69,Urban Bites #69,Jamshedpur,"Continental, Desserts, Street Food",4.6,900,31
+70,Spice Junction #70,Hyderabad,Bakery,4.2,400,43
+71,Spice Bites #71,Bangalore,Healthy Food,3.6,200,23
+72,Urban Table #72,Delhi,Italian,4.3,200,41
+73,Urban Corner #73,Mumbai,"Biryani, Continental",3.4,700,39
+74,Urban Corner #74,Mumbai,"Healthy Food, North Indian, Mexican",4.8,400,39
+75,Grand Junction #75,Chennai,"Continental, Healthy Food",4.1,300,46
+76,Urban Corner #76,Mumbai,Fast Food,3.7,700,25
+77,Cafe Kitchen #77,Hyderabad,"Chinese, Mexican",4.1,150,20
+78,Royal Kitchen #78,Bangalore,"Desserts, Chinese, Beverages",3.7,300,44
+79,Spice Corner #79,Bangalore,"Biryani, Desserts",4.6,900,16
+80,Royal Table #80,Mumbai,"Continental, North Indian, Biryani",4.5,150,16
+81,The Junction #81,Delhi,Italian,3.5,900,22
+82,Spice Bites #82,Pune,"Italian, Beverages, Fast Food",4.2,200,25
+83,The House #83,Pune,"South Indian, Mexican",4.3,700,40
+84,Grand Table #84,Delhi,"Italian, South Indian, Mexican",3.2,400,53
+85,Cafe Kitchen #85,Bangalore,Street Food,4.0,500,19
+86,Urban Corner #86,Mumbai,"Bakery, Biryani, North Indian",3.8,500,55
+87,Urban Bites #87,Jamshedpur,"Healthy Food, Chinese",4.0,400,54
+88,Urban Table #88,Pune,"Street Food, Beverages, Healthy Food",3.5,300,20
+89,Urban Junction #89,Pune,"Beverages, Italian",4.3,500,16
+90,Urban Bites #90,Bangalore,"Biryani, Chinese",4.5,500,32
+91,The Junction #91,Delhi,"Healthy Food, Fast Food, Continental",3.2,700,46
+92,Grand Table #92,Hyderabad,"Street Food, Italian, Beverages",3.9,150,20
+93,Grand Bites #93,Bangalore,"Italian, Desserts",4.3,500,45
+94,Grand Junction #94,Bangalore,"Continental, Biryani, Desserts",3.7,900,32
+95,The Table #95,Delhi,"Fast Food, Italian",3.6,250,27
+96,Urban House #96,Jamshedpur,Healthy Food,4.1,400,21
+97,Royal House #97,Delhi,Fast Food,3.6,250,32
+98,Cafe House #98,Jamshedpur,North Indian,4.8,900,21
+99,Spice Corner #99,Hyderabad,Mexican,3.8,250,18
+100,The Corner #100,Hyderabad,"Beverages, South Indian",3.1,150,24
+101,Cafe House #101,Mumbai,Street Food,4.9,200,50
+102,Cafe Bites #102,Chennai,"Mexican, Street Food",4.0,900,43
+103,Spice Junction #103,Pune,"Mexican, Desserts",3.1,200,28
+104,The Bites #104,Delhi,"Italian, Fast Food, Bakery",3.3,200,25
+105,Urban Table #105,Pune,Desserts,3.9,150,29
+106,Grand Corner #106,Mumbai,"Healthy Food, Fast Food",4.3,400,55
+107,The Junction #107,Delhi,"Bakery, Italian, Desserts",4.2,400,24
+108,Royal House #108,Pune,North Indian,4.4,400,43
+109,Grand House #109,Jamshedpur,Beverages,3.8,400,47
+110,Cafe Kitchen #110,Hyderabad,"Beverages, Street Food, South Indian",4.4,400,16
+111,Grand Junction #111,Pune,Italian,4.8,400,51
+112,Royal Corner #112,Pune,Street Food,4.2,400,26
+113,The Corner #113,Bangalore,"Desserts, Bakery, Beverages",3.8,500,21
+114,Urban Table #114,Hyderabad,Biryani,3.5,700,50
+115,The House #115,Bangalore,Beverages,3.6,700,47
+116,Cafe Corner #116,Hyderabad,Bakery,3.1,500,54
+117,The Bites #117,Bangalore,"Bakery, Beverages",4.0,400,43
+118,Grand Junction #118,Chennai,"Beverages, South Indian, North Indian",3.5,250,34
+119,The Bites #119,Chennai,"North Indian, Continental, Desserts",4.7,900,22
+120,Cafe Table #120,Bangalore,"Chinese, Beverages, Fast Food",3.8,900,45
+121,Cafe Bites #121,Hyderabad,Beverages,3.4,250,19
+122,Spice Junction #122,Bangalore,"Street Food, Desserts",4.6,400,34
+123,Royal Corner #123,Pune,"Mexican, Bakery, Beverages",3.9,500,50
+124,Royal Table #124,Delhi,"Desserts, Beverages, Biryani",4.1,300,41
+125,Grand Corner #125,Jamshedpur,Biryani,4.7,700,39
+126,Urban Kitchen #126,Delhi,"Street Food, Bakery, Chinese",4.0,500,21
+127,Urban Kitchen #127,Jamshedpur,"South Indian, Continental",3.3,250,19
+128,Spice Junction #128,Jamshedpur,"Street Food, Fast Food",3.8,200,36
+129,Grand Table #129,Chennai,"Continental, Desserts, Biryani",3.9,150,54
+130,Grand Table #130,Bangalore,Italian,4.9,200,42
+131,Grand Table #131,Chennai,Street Food,3.2,250,34
+132,Spice Kitchen #132,Bangalore,North Indian,3.7,700,24
+133,Urban Junction #133,Jamshedpur,Continental,4.5,250,26
+134,Urban Junction #134,Jamshedpur,Mexican,3.5,250,29
+135,Urban House #135,Jamshedpur,"Bakery, Fast Food",3.0,900,33
+136,Urban House #136,Pune,"Continental, Chinese, South Indian",3.6,700,31
+137,Urban Corner #137,Mumbai,"Fast Food, Italian",3.5,500,51
+138,The Table #138,Hyderabad,"Healthy Food, Fast Food",3.5,150,53
+139,Cafe House #139,Delhi,"Beverages, Fast Food, Italian",4.2,400,23
+140,The House #140,Chennai,"South Indian, Bakery, Healthy Food",3.8,500,23
+141,Spice Table #141,Hyderabad,Fast Food,3.3,250,49
+142,Spice Bites #142,Bangalore,"Continental, Street Food",4.7,900,33
+143,The Bites #143,Chennai,"Biryani, South Indian, Beverages",4.8,700,50
+144,The House #144,Pune,"South Indian, Desserts",3.2,500,31
+145,The Table #145,Delhi,"Desserts, Bakery, Biryani",3.9,500,54
+146,The Table #146,Chennai,Bakery,3.9,400,41
+147,The Kitchen #147,Bangalore,Chinese,4.9,200,21
+148,Royal Corner #148,Hyderabad,Continental,3.7,700,52
+149,Grand Kitchen #149,Chennai,"Healthy Food, Chinese, Desserts",3.9,700,32
+150,Spice Bites #150,Hyderabad,Healthy Food,3.8,300,38
+151,Spice Junction #151,Jamshedpur,Bakery,3.7,700,32
+152,Urban Kitchen #152,Jamshedpur,South Indian,3.4,150,18
+153,Cafe Bites #153,Mumbai,"Italian, Chinese",4.6,300,52
+154,Spice Bites #154,Chennai,Italian,4.7,150,32
+155,Cafe House #155,Chennai,Chinese,3.3,150,23
+156,Royal Junction #156,Bangalore,Biryani,3.0,400,18
+157,Urban Junction #157,Mumbai,Healthy Food,4.4,900,43
+158,The Corner #158,Pune,"Continental, Mexican",3.4,150,48
+159,The Kitchen #159,Hyderabad,"Beverages, Bakery",4.6,700,21
+160,The Kitchen #160,Bangalore,"Healthy Food, Beverages",4.2,200,23
+161,Cafe Junction #161,Jamshedpur,"Mexican, Bakery",3.6,400,44
+162,Grand Kitchen #162,Chennai,"Mexican, Desserts, South Indian",4.2,300,42
+163,Spice Corner #163,Hyderabad,"Italian, Desserts",3.8,200,35
+164,Spice House #164,Delhi,"Biryani, Bakery",4.3,900,19
+165,The Corner #165,Mumbai,South Indian,4.4,500,23
+166,Cafe House #166,Jamshedpur,"North Indian, Mexican, Continental",3.2,500,42
+167,Spice House #167,Mumbai,"North Indian, Fast Food, Mexican",4.1,300,24
+168,Spice Junction #168,Bangalore,"Beverages, Italian, South Indian",3.2,400,51
+169,Urban Junction #169,Chennai,Street Food,4.6,150,53
+170,Royal House #170,Jamshedpur,"Healthy Food, Fast Food, North Indian",4.4,500,37
+171,Royal Junction #171,Jamshedpur,Chinese,3.8,250,55
+172,Grand Junction #172,Delhi,South Indian,3.7,900,36
+173,Spice Table #173,Bangalore,Biryani,4.5,200,18
+174,Cafe Kitchen #174,Jamshedpur,Chinese,3.2,900,42
+175,Urban House #175,Delhi,"Mexican, Beverages",4.4,200,37
+176,Grand Table #176,Pune,"South Indian, Fast Food",3.9,400,17
+177,Cafe Kitchen #177,Mumbai,Desserts,3.4,300,23
+178,The Kitchen #178,Hyderabad,"Fast Food, Biryani",4.4,250,23
+179,Royal Junction #179,Pune,"Continental, Healthy Food",4.6,500,19
+180,Urban Kitchen #180,Hyderabad,"Healthy Food, North Indian",4.8,500,51
+181,Grand Table #181,Hyderabad,"Mexican, Desserts",3.6,700,16
+182,Urban Table #182,Bangalore,"Chinese, Mexican",3.2,200,30
+183,Cafe Kitchen #183,Hyderabad,"Mexican, Desserts",4.7,500,29
+184,The Junction #184,Jamshedpur,"Street Food, Chinese",3.2,300,37
+185,Royal Bites #185,Mumbai,"Healthy Food, Bakery",3.3,300,26
+186,Royal Table #186,Hyderabad,"Chinese, Bakery, South Indian",3.9,900,51
+187,Grand House #187,Delhi,"Bakery, Mexican, Biryani",3.8,900,43
+188,The House #188,Pune,"Fast Food, Street Food, Mexican",3.1,900,43
+189,Spice House #189,Mumbai,North Indian,4.2,200,54
+190,Cafe Junction #190,Chennai,"Continental, Desserts, Beverages",4.4,150,43
+191,Cafe Corner #191,Pune,"Bakery, Italian, Biryani",3.3,150,43
+192,Spice Table #192,Mumbai,Street Food,4.0,250,17
+193,Urban Corner #193,Pune,Healthy Food,4.0,250,38
+194,Urban House #194,Jamshedpur,"Fast Food, Desserts",4.1,500,19
+195,Grand Corner #195,Bangalore,"South Indian, Continental",3.5,250,36
+196,Grand Bites #196,Bangalore,Mexican,3.6,700,23
+197,Cafe Corner #197,Jamshedpur,"Healthy Food, South Indian, Fast Food",4.5,250,48
+198,Grand Corner #198,Pune,Bakery,3.7,500,34
+199,Spice Corner #199,Delhi,Italian,3.4,250,24
+200,The Junction #200,Chennai,Fast Food,4.0,150,36
