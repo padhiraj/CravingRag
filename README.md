@@ -1,4 +1,4 @@
-# SwiggyMind — Conversational Food Discovery Engine
+# CravingRag — Conversational Food Discovery Engine
 
 I built this after thinking about how clunky food app search still is. You type "something light, not too oily, under 250 bucks" and most apps just do keyword matching against dish names, so you get garbage results or nothing at all. This project is my attempt at fixing that: a small end-to-end system that takes a natural-language craving, retrieves relevant dishes using semantic search, re-ranks them with a model trained on (simulated) user behavior, and explains *why* each result was picked instead of just listing them.
 
